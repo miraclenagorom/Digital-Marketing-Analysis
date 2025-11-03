@@ -35,8 +35,8 @@ EDA involved exploring the marketing data to answer key questions such as:
 ### Data Analysis
 
 Excel
-SUM(CAC)
-SUM(REVENUE)
+- SUM(CAC)
+- SUM(REVENUE)
 
 ### Results/Findings
 
@@ -51,11 +51,15 @@ Instagram teir 1
 ### Recommendations
 
 Based on the analysis, I recommend the following actions;
+- Invest in promoting more youtube blogs
+- Running more campaign ads targeted for during weekday
+- Adopt an advanced customer segmentation model to prioritize high-LTV segments,
+  enabling personalized campaigns and maximizing long-term profitability
 
+### Limitations
 
-
-
-
+The segmentation and visualization were performed using available tools such as Excel and Power BI, 
+which may limit the depth of predictive insights compared to advanced machine learning models.
 
 
 
