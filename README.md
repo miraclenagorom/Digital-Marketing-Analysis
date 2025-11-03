@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insight into the marketing metrics of a company across their social media platforms. By analyzing various aspects of the marketing data, we seek to identify trends, make data driven recommendations and gain a deeper understanding on the digital marketing performance across platforms.
+This data analysis project aims to provide insight into the marketing metrics of a company across their social media platforms. By analyzing various aspects of the marketing data, I identified the trends, made data driven recommendations and gained a deeper understanding on the digital marketing performance across platforms.
 
 ### Data Sources
 
@@ -15,14 +15,14 @@ Marketing Data: The primary dataset used for this analysis is "marketing.csv" fi
 
 ### Data Cleaning/Preparation
 
-In the initial data preparation phase, we perfomed the following tasks:
+In the initial data preparation phase, I perfomed the following tasks:
 1. Data loading & Inspection
 2. Handling missing values 
 3. Data cleaning & formatting
 
 ### Exploratory Data Analysis
 
-EDA involved te marketing data to answer key questions such as:
+EDA involved exploring the marketing data to answer key questions such as:
 
 - What is the Return on marketing investment (ROMI)?
 - What is the Cost per click (CPC)
@@ -33,6 +33,24 @@ EDA involved te marketing data to answer key questions such as:
 - What is the Conversion rate 2
 
 ### Data Analysis
+
+Excel
+SUM(CAC)
+SUM(REVENUE)
+
+###Results/Findings
+
+The analsis results are summarized as follows:
+1. The top 3 campaign names that generated the highest revenues were:
+YouTube blogs 
+Instagram blogs
+Instagram teir 1
+2. Revenue was generated most during Weekdays
+3. In the sum of revenue by date the most revenue was generated on February 21, 2011
+
+###Recommendations
+
+Based on the analysis, I recommend the following actions;
 
 
 
