@@ -38,7 +38,7 @@ Excel
 SUM(CAC)
 SUM(REVENUE)
 
-###Results/Findings
+### Results/Findings
 
 The analsis results are summarized as follows:
 1. The top 3 campaign names that generated the highest revenues were:
@@ -48,7 +48,7 @@ Instagram teir 1
 2. Revenue was generated most during Weekdays
 3. In the sum of revenue by date the most revenue was generated on February 21, 2011
 
-###Recommendations
+### Recommendations
 
 Based on the analysis, I recommend the following actions;
 
