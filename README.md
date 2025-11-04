@@ -1,5 +1,15 @@
 # Digital Marketing Analysis
 
+## Table of Contents
+
+- [Project Overview](#project_overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- 
+
 ### Project Overview
 
 This data analysis project aims to provide insight into the marketing metrics of a company across their social media platforms. By analyzing various aspects of the marketing data, I identified the trends, made data driven recommendations and gained a deeper understanding on the digital marketing performance across platforms.
