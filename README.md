@@ -17,6 +17,8 @@
 
 This data analysis project aims to provide insight into the marketing metrics of a company across their social media platforms. By analyzing various aspects of the marketing data, I identified the trends, made data driven recommendations and gained a deeper understanding on the digital marketing performance across platforms.
 
+<img width="970" height="527" alt="Digital marketing" src="https://github.com/user-attachments/assets/0943cc3f-c0ca-4ee9-a135-d630dd982d95" />
+
 ### Data Sources
 
 Marketing Data: The primary dataset used for this analysis is "marketing.csv" file, containing detailed information about the total budget spent, total revenue generated and customer behaviour.
