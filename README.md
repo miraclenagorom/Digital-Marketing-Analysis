@@ -55,7 +55,7 @@ Excel
 
 ### Results/Findings
 
-The analsis results are summarized as follows:
+The analysis results are summarized as follows:
 1. The top 3 campaign names that generated the highest revenues were:
 YouTube blogs 
 Instagram blogs
