@@ -15,9 +15,8 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insight into the marketing metrics of a company across their social media platforms. By analyzing various aspects of the marketing data, I identified the trends, made data driven recommendations and gained a deeper understanding on the digital marketing performance across platforms.
-
-<img width="970" height="527" alt="Digital marketing" src="https://github.com/user-attachments/assets/0943cc3f-c0ca-4ee9-a135-d630dd982d95" />
+This project evaluates the performance of multi-channel digital marketing campaigns to identify high-performing channels, optimize budget allocation, and improve conversion outcomes.
+The goal was to transform marketing data into clear insights that drive better campaign performance and reduce acquisition costs
 
 ### Data Sources
 
@@ -30,22 +29,22 @@ Marketing Data: The primary dataset used for this analysis is "marketing.csv" fi
 
 ### Data Cleaning/Preparation
 
-In the initial data preparation phase, I perfomed the following tasks:
-1. Data loading & Inspection
-2. Handling missing values 
-3. Data cleaning & formatting
+- Cleaned inconsistent campaign record
+- Standardized campaign and channel naming convention
+- Created calculated metrics:
+Conversion Rate
+Cost Per Acquisition (CPA)
+Return on Investment (ROI)
+Aggregated data across channels for comparison
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the marketing data to answer key questions such as:
+Key Analysis Performed
 
-- What is the Return on marketing investment (ROMI)?
-- What is the Cost per click (CPC)
-- What is the Cost per lead (CPL)
-- What is the Customer acquisition cost (CAC)
-- What is the Average order value (AOV)
-- What is the Conversion rate 1
-- What is the Conversion rate 2
+Campaign performance analysis across channels
+Conversion funnel analysis
+Cost efficiency analysis (CPA, ROI)
+Trend analysis of campaign performance over time
 
 ### Data Analysis
 
@@ -63,6 +62,8 @@ Instagram teir 1
 2. Revenue was generated most during Weekdays
 3. In the sum of revenue by date the most revenue was generated on February 21, 2011
 
+<img width="970" height="527" alt="Digital marketing" src="https://github.com/user-attachments/assets/0943cc3f-c0ca-4ee9-a135-d630dd982d95" />
+
 ### Recommendations
 
 Based on the analysis, I recommend the following actions;
@@ -70,6 +71,14 @@ Based on the analysis, I recommend the following actions;
 - Running more campaign ads targeted for during weekday
 - Adopt an advanced customer segmentation model to prioritize high-LTV segments,
   enabling personalized campaigns and maximizing long-term profitability
+
+### Business Impact
+
+This analysis enables:
+Smarter budget allocation
+Improved marketing ROI
+Better campaign decision-making
+Reduced customer acquisition costs
 
 ### Limitations
 
